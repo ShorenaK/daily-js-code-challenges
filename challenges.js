@@ -16,7 +16,10 @@ sayHello() //=> Hello!
 function sayHello() {
   return 'Hello!'
 }
-
+function addOne (num){
+  return num + 1;
+}
+console.log(addOne(11))
 
 /*-----------------------------------------------------------------
 Challenge: 01-addOne
